@@ -1,0 +1,21 @@
+Student_ID,Name,Department,Python,NumPy,Pandas,Attendance
+ST001,Aarav Sharma,CSE,92,88,94,95
+ST002,Riya Verma,ECE,78,82,80,89
+ST003,Arjun Singh,ME,65,70,68,82
+ST004,Ananya Gupta,CSE,88,91,85,93
+ST005,Rohit Kumar,ECE,45,52,48,76
+ST006,Neha Yadav,EE,72,75,78,87
+ST007,Karan Malik,CSE,35,42,38,72
+ST008,Priya Mehta,ECE,95,93,97,98
+ST009,Aditya Jain,ME,58,62,55,79
+ST010,Simran Kaur,CSE,81,79,85,91
+ST011,Vivek Joshi,EE,68,64,72,84
+ST012,Pooja Agarwal,ECE,54,58,61,80
+ST013,Manish Rawat,ME,39,35,42,68
+ST014,Ishita Kapoor,CSE,86,89,91,94
+ST015,Nitin Kumar,EE,74,69,71,86
+ST016,Sakshi Rana,ECE,90,87,92,96
+ST017,Varun Bansal,ME,48,45,52,77
+ST018,Tanya Saini,CSE,76,83,79,88
+ST019,Deepak Sharma,EE,61,57,65,81
+ST020,Muskan Arora,ECE,84,80,88,92
